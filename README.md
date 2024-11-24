@@ -42,19 +42,27 @@
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)  
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r)  
-...and more!  
+![SQL](https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=postgresql)  
+![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex)  
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php)  
+![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby)  
 
 ### Frameworks and Libraries  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange?style=flat-square&logo=tensorflow)  
-![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras)  
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask)  
-...and more!  
+- **Data Science & Machine Learning**:  
+  - Matplotlib, NumPy, Pandas, Plotly, Scikit-learn, SciPy  
+  - TensorFlow, Keras, PyTorch, Pytest  
+- **Web Development**:  
+  - Flask, Bootstrap, ASP.NET MVC, Ruby on Rails  
 
 ### Tools and Software  
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux)  
-![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-FA0F00?style=flat-square&logo=jupyter)  
-![SQL](https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=postgresql)  
-...and more!  
+- **Development Tools**: PyCharm, Visual Studio, Anaconda, Jupyter Notebook, Visual Studio Code, Sublime Text  
+- **Data Analysis & Visualization**: SPSS, Power BI, Tableau, Google Sheets  
+- **Version Control & Deployment**: GitHub, Git Bash, Heroku, GitHub Pages  
+- **Databases**: PostgreSQL, MySQL, MongoDB, SQLite, Oracle  
+- **Miscellaneous**: XMind, Lucidchart, EndNote, Zotero, Microsoft Office  
+
+### Key Skills  
+- Time Management, Teamwork, Leadership, Adaptability, Decision Making, Professional Speaking, Multitasking, Creativity
 
 ---
 
@@ -120,9 +128,3 @@ Features:
 ## 📧 References
 *Available on Request* 
 ```
-
-### Features Added:
-1. **Icons and Emojis**: Add color and context.
-2. **Badges**: Create visual appeal for skills and technologies.
-3. **Tables**: Structure education and other sections neatly.
-4. **Links**: Highlight your GitHub and research content.
