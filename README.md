@@ -1,6 +1,3 @@
-Here's your GitHub-friendly `README.md` file:
-
-```markdown
 # Noman Iqbal
 
 ## Contact
