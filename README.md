@@ -1,4 +1,3 @@
-To make your GitHub `README.md` visually appealing and colorful, you can use Markdown syntax along with emojis, bold headers, and links. Here’s an improved version with a better structure and some aesthetic enhancements:
 
 ```markdown
 # 🌟 Noman Iqbal 🌟
